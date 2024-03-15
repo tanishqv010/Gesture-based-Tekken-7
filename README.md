@@ -1,13 +1,16 @@
-# tekken_7_multiplayer_opencv
+# Tek Tussle
 Playing the most famous fighting game using open cv having multiplayer feature.
 
-![WhatsApp Image 2024-02-18 at 03 57 33_87ef4779](https://github.com/ARTHON9611/tekken_7_multiplayer_opencv/assets/112642588/f3aeee33-f256-4d3f-8e8f-868d1ad5e062)
-![WhatsApp Image 2024-02-18 at 03 57 33_62a1dc1c](https://github.com/ARTHON9611/tekken_7_multiplayer_opencv/assets/112642588/8f0ef30d-1287-41fd-bb54-e05eaa388d4e)
+Player 1
+![Player 1](https://github.com/tanishqv010/Gesture-based-Tekken-7/assets/70789222/39dabd97-09da-4e57-9e73-559c5010ad2b)
+
+Player 2
+![Player 2](https://github.com/tanishqv010/Gesture-based-Tekken-7/assets/70789222/2c7b08d5-d34e-447a-9b97-8dc41bb94ea3)
+
 
 Prerequisites:
----> Tekken 7 installed
----> Webcamera
----> Map the controls of the game with that code with help of screen shots provided
+  Step 1 : Install the game Tekken 7.
+  Step 2 : Get a Webcam.
+  Step 3 :  Map the in-game controls with that screenshots provided.
 
-ENJOY.....
-
+Congratulations!! Now you are ready to play the Tekken 7 game in Multiplayer Mode using gestures.
