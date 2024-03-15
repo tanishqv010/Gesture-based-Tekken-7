@@ -1,10 +1,11 @@
 # Tek Tussle
 
 <h1>Player 1</h1>
-![Player 1](https://github.com/tanishqv010/Gesture-based-Tekken-7/assets/70789222/39dabd97-09da-4e57-9e73-559c5010ad2b)
+![Player 1](https://github.com/tanishqv010/Gesture-based-Tekken-7/assets/70789222/a823645d-c409-417e-ad08-1e1af604e2b7)
+
 
 <h1>Player 2</h1>
-![Player 2](https://github.com/tanishqv010/Gesture-based-Tekken-7/assets/70789222/2c7b08d5-d34e-447a-9b97-8dc41bb94ea3)
+![Player 2](https://github.com/tanishqv010/Gesture-based-Tekken-7/assets/70789222/2fb94edb-50e6-4d75-8141-bfc59fdb6341)
 
 
 <h1>Prerequisites:<h1>
