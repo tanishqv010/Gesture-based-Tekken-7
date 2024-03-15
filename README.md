@@ -1,16 +1,16 @@
 # Tek Tussle
 
-<h1>Player 1</h1>
-![Player 1](https://github.com/tanishqv010/Gesture-based-Tekken-7/assets/70789222/a823645d-c409-417e-ad08-1e1af604e2b7)
+<h2>Player 1</h2>
+<img src="https://github.com/tanishqv010/Gesture-based-Tekken-7/assets/70789222/faf04fe2-347c-4b6c-a041-432fa369bc2b" width="250" height="250">
 
 
-<h1>Player 2</h1>
-![Player 2](https://github.com/tanishqv010/Gesture-based-Tekken-7/assets/70789222/2fb94edb-50e6-4d75-8141-bfc59fdb6341)
+<h2>Player 2</h2>
+<img src="https://github.com/tanishqv010/Gesture-based-Tekken-7/assets/70789222/1ba7a797-fca4-41b6-9e08-7e70284b5995" width="250" height="250">
 
 
-<h1>Prerequisites:<h1>
-<h2>    Step 1 : Install the game Tekken 7.</h2>
-<h2>    Step 2 : Get a Webcam.</h2>
-<h2>    Step 3 :  Map the in-game controls with that screenshots provided.</h2>
+<h2>Prerequisites:<h2>
+<h3>    Step 1 : Install the game Tekken 7.</h3>
+<h3>    Step 2 : Get a Webcam.</h3>
+<h3>    Step 3 :  Map the in-game controls with that screenshots provided.</h3>
 
-<h1>Congratulations!! Now you are ready to play the Tekken 7 game in Multiplayer Mode using gestures.</h1>
+<h2>Congratulations!! Now you are ready to play the Tekken 7 game in Multiplayer Mode using gestures.</h2>
