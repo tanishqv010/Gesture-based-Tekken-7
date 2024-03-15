@@ -9,8 +9,8 @@
 
 
 <h2>Prerequisites:<h2>
-    Step 1 : Install the game Tekken 7.
-    Step 2 : Get a Webcam.
+    Step 1 : Install the game Tekken 7.<br>
+    Step 2 : Get a Webcam.<br>
     Step 3 :  Map the in-game controls with that screenshots provided.</h2>
 
 <h2>Congratulations!! Now you are ready to play the Tekken 7 game in Multiplayer Mode using gestures.</h2>
